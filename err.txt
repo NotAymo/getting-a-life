@@ -1,0 +1,4 @@
+Thrown new GetALifeError: Failed to get a life.
+Stacktrace: FAILED_TO_GET_A_LIFE at Meow.functions.getALife()
+at Meow.functions = null
+at Meow = {name: "Meow", purpose: null}
