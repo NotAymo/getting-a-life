@@ -1,1 +1,1 @@
-cd C:\$i30
+cd C:\:$i30:$bitmap
